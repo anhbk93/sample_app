@@ -171,6 +171,8 @@ input {
 }
 
 #error_explanation {
+  text-align: center;
+  font-weight: bold;
   color: red;
   ul {
     color: red;
